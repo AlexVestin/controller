@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/AlexVestin/controller/issues"
   },
-  "homepage": "https://github.com/AlexVestin/controller#readme",
   "description": "",
   "dependencies": {
     "gh-pages": "^2.0.1"
